@@ -47,3 +47,7 @@ Trust Analysis – Host verification and profile trust indicators.
 Business Impact & Insights
 Identifies leading markets, pricing patterns, customer preferences, seasonal demand, and host trust factors to support strategic growth and decision-making.
 
+
+SCREEBSHOT:
+https://github.com/tanyakhare89/Airbnb-Power-BI-Dahboard/blob/main/Screenshot%202026-06-10%20144733.png
+
