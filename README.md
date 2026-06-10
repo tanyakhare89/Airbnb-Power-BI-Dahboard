@@ -51,4 +51,5 @@ Identifies leading markets, pricing patterns, customer preferences, seasonal dem
 SCREEBSHOT:
 https://github.com/tanyakhare89/Airbnb-Power-BI-Dahboard/blob/main/Screenshot%202026-06-10%20144733.png
 https://github.com/tanyakhare89/Airbnb-Power-BI-Dahboard/blob/main/Screenshot%202026-06-10%20144755.png
+https://github.com/tanyakhare89/Airbnb-Power-BI-Dahboard/blob/main/Screenshot%202026-06-10%20144810.png
 
